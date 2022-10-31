@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,70,0,0,3,107"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel14">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Footlight MT Light" size="48" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="VERB TO BE"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="320" y="30" width="280" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel3">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="250" height="580"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel24">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="2" name="C:\Users\User\Desktop\1619523742-verb-to-be-1619523742 (1).jpg"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="260" height="180"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/trabalho/GRD DEIT.jpg"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="270" y="0" width="600" height="90"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel21">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/trabalho/GRD DEIT.jpg"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="220" y="0" width="600" height="90"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel7">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel20">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder thickness="4">
+              <Color PropertyName="color" blue="ff" green="ff" red="ff" type="rgb"/>
+            </LineBorder>
+          </Border>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="250" y="89" width="620" height="510"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel56">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="MV Boli" size="18" style="1"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="2" name="C:\Users\User\Desktop\icons 1\arrow_redo.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Voltar"/>
+            <Property name="toolTipText" type="java.lang.String" value=""/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel56MouseClicked"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="530" y="460" width="-1" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="620" height="460"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="Na l&#xed;ngua inglesa, o verb to be exerce mais de um papel. Al&#xe9;m de ter o sentido de &#x201c;ser&#x201d; e &#x201c;estar&#x201d; &#xa;em portugu&#xea;s, ele tamb&#xe9;m tem a fun&#xe7;&#xe3;o de verbo auxiliar ou helping verb em outros tempos&#xa; verbais, ou seja, ele acompanha o verbo principal da frase [1]. Tais caracter&#xed;sticas tornam o verb &#xa;to be um dos principais verbos da l&#xed;ngua inglesa.&#xa;&#xa;Portanto, ao estudar o verbo to be, &#xe9; necess&#xe1;rio entender com clareza os diferentes pap&#xe9;is que&#xa; ele pode desempenhar nas ora&#xe7;&#xf5;es. Deve-se atentar tamb&#xe9;m ao verbo to be no presente, no &#xa;passado e no futuro. Para que n&#xe3;o restem d&#xfa;vidas, estudaremos neste texto o uso do verb to be&#xa; nas frases afirmativa, interrogativa e negativa, em diferentes tempos verbais, por meio de &#xa;exemplos.&#xa;&#xa;O verbo to be &#xe9; um dos verbos irregulares em ingl&#xea;s.&#xa;O verbo to be &#xe9; um dos verbos irregulares em ingl&#xea;s.&#xa;Como usar o verbo to be?&#xa;O verb to be &#xe9; irregular, isto &#xe9;, ele possui tr&#xea;s formas no presente simples: am, is, are; duas&#xa; formas no passado simples: was, were; uma forma no futuro simples: will be; uma forma no &#xa;partic&#xed;pio presente: being; e uma forma no partic&#xed;pio passado: been.&#xa;&#xa;Quando ele ocupa a posi&#xe7;&#xe3;o de verbo principal da ora&#xe7;&#xe3;o, temos o sentido de ser e estar. &#xa;Caso contr&#xe1;rio, ele ocupar&#xe1; a posi&#xe7;&#xe3;o de auxiliary verb (verbo auxiliar), acompanhando o main &#xa;verb (verbo principal) da frase, especificamente nos tempos progressivos: present progressive, &#xa;past progressive and future progressive, present/past/future perfect progressive. O verb to be &#xa;tamb&#xe9;m &#xe9; usado na voz passiva (passive voice).&#xa;&#xa;N&#xe3;o pare agora... Tem mais depois da publicidade ;)&#xa;Observe os exemplos:&#xa;&#xa;Simple present: He isn&#x2019;t funny. / Ele n&#xe3;o &#xe9; engra&#xe7;ado.&#xa;Simple past: He wasn&#x2019;t funny. / Ele n&#xe3;o era engra&#xe7;ado.&#xa;Simple future: He won&#x2019;t be here. / Ele n&#xe3;o estar&#xe1; aqui.&#xa;Present progressive: She is working a lot. / Ela est&#xe1; trabalhando muito.&#xa;Past progressive: She was working a lot. / Ela estava trabalhando muito.&#xa;Future progressive: She will be working a lot. / Ela estar&#xe1; trabalhando muito.&#xa;Passive voice: The paper was published in 2015. / O artigo foi publicado em 2015.&#xa;Present perfect progressive: She has been working a lot. / Ela tem trabalhado muito.&#xa;Past perfect progressive: She had been working a lot. / Ela estava trabalhando muito.&#xa;Future perfect progressive: She will have been working a lot. / Ela ter&#xe1; trabalhado muito.&#xa;&#xa;Useful Tip&#xa;&#xc9; importante destacar que o verbo to be no presente simples e passado simples n&#xe3;o &#xe9; &#xa;acompanhado pelos auxiliares do e did nas frases negativas e interrogativas.&#xa;&#xa;Por exemplo:&#xa;&#xa;Are you a doctor? / Voc&#xea; &#xe9; m&#xe9;dico?&#xa;&#xa;N&#xc3;O poder&#xed;amos perguntar: Do you are a doctor? (errado)&#xa;&#xa;Were you a doctor? / Voc&#xea; era medico?&#xa;&#xa;N&#xc3;O poder&#xed;amos perguntar: Did you were a doctor? (errado)&#xa;&#xa;&#xa;O verb to be enquanto verbo principal de uma ora&#xe7;&#xe3;o tem diferentes fun&#xe7;&#xf5;es / sentidos. &#xa;Observe os seguintes exemplos:&#xa;&#xa;Verbo de liga&#xe7;&#xe3;o: Megan was hungry. / Megan estava com fome.&#xa;Qualidades: These cats, they are so cute. / Estes gatos, eles s&#xe3;o t&#xe3;o fofos.&#xa;Identidade: I&#x2019;m her sister. / Eu sou a irm&#xe3; dela.&#xa;Idade: He is 45 years old. / Ele tem 45 anos.&#xa;Veja que, em portugu&#xea;s, para falar de idade, usamos o verbo ter, mas, em ingl&#xea;s, devemos &#xa;sempre usar o verb to be.&#xa;&#xa;Nacionalidade: We are Brazilians. / N&#xf3;s somos brasileiros.&#xa;Profiss&#xe3;o: My father is a teacher. / Meu pai &#xe9; professor.&#xa;Nos t&#xf3;picos seguintes, estudaremos o verb to be nas formas afirmativa, negativa e interrogativa,&#xa; nos tempos presente, passado e futuro. Are you ready?&#xa;&#xa;Leia tamb&#xe9;m: Will or going to?&#xa;&#xa;Forma afirmativa&#xa;Observe a tabela seguinte com o verb to be na forma afirmativa, no presente, no passado e no&#xa; futuro:&#xa;&#xa; &#xa;&#xa;Affirmative&#xa;&#xa;To be late for work = estar atrasado para o trabalho&#xa;&#xa; &#xa;&#xa;Present&#xa;&#xa; &#xa;&#xa;We are at home. / N&#xf3;s estamos em casa.&#xa;It is a dog. / &#xc9; um cachorro.&#xa;You were very shy. / Voc&#xea; era muito t&#xed;mido.&#xa;I&#x2019;ll be a vet. / Eu serei uma veterin&#xe1;ria.&#xa;&#xa;&#x2666; Na forma afirmativa, pode-se usar a forma contra&#xed;da apenas no presente e no futuro: &#xa;I&#x2019;m, he&#x2019;s, she&#x2019;s, it&#x2019;s, we&#x2019;re, you&#x2019;re, they&#x2019;re, I&#x2019;ll be, he&#x2019;ll be, she&#x2019;ll be, it&#x2019;ll be, we&#x2019;ll be, you&#x2019;ll be e &#xa;they&#x2019;ll be.&#xa;&#xa;Forma negativa&#xa; &#xa;&#xa;Negative&#xa;&#xa;To be late for work = estar atrasado para o trabalho&#xa;&#xa;&#xa;Lembre-se de que, na forma negativa, pode-se utilizar a forma contra&#xed;da: aren&#x2019;t, isn&#x2019;t, wasn&#x2019;t, weren&#x2019;t, won&#x2019;t be.&#xa;&#xa;We aren&#x2019;t at home. / N&#xf3;s n&#xe3;o estamos em casa.&#xa;It isn&#x2019;t a dog. / N&#xe3;o &#xe9; um cachorro.&#xa;You aren&#x2019;t very shy. / Voc&#xea; n&#xe3;o &#xe9; muito t&#xed;mido.&#xa;You weren&#x2019;t very shy. / Voc&#xea; n&#xe3;o era muito t&#xed;mido.&#xa;I won&#x2019;t be a vet. / Eu n&#xe3;o serei uma veterin&#xe1;ria.&#xa;Leia tamb&#xe9;m: Como descrever a apar&#xea;ncia das pessoas em ingl&#xea;s&#xa;&#xa;Forma interrogativa&#xa;Para fazer uma pergunta com o verbo to be, &#xe9; necess&#xe1;rio inverter a ordem da frase afirmativa, &#xa;ou seja, o verbo vem antes do sujeito.&#xa;&#xa; &#xa;&#xa;Interrogativa&#xa;&#xa;To be late for work = estar atrasado para o trabalho&#xa;&#xa;Present&#xa;&#xa; &#xa;&#xa;Past&#xa;&#xa;Future&#xa;&#xa; &#xa;&#xa;Am I late for work?&#xa;&#xa; &#xa;&#xa;Was I late for work?&#xa;&#xa;Will I be late for work?&#xa;&#xa;Will you be late for work?&#xa;&#xa;Will he/she/it be late for work?&#xa;&#xa;Will we be late for work?&#xa;&#xa;Will you be late for work?&#xa;&#xa;Will they be late for work?&#xa;&#xa; &#xa;&#xa; &#xa;&#xa; &#xa;&#xa; &#xa;&#xa;Are you late for work?&#xa;&#xa; &#xa;&#xa;Were you late for work?&#xa;&#xa;Is he/she/it late for work?&#xa;&#xa; &#xa;&#xa;Was he/she/it late for work?&#xa;&#xa;Are we late for work?&#xa;&#xa; &#xa;&#xa;Were we late for work?&#xa;&#xa;Are you late for work?&#xa;&#xa; &#xa;&#xa;Were you late for work?&#xa;&#xa;Are they late for work?&#xa;&#xa; &#xa;&#xa;Were they late for work?&#xa;&#xa; &#xa;&#xa;Are we at home? / N&#xf3;s estamos em casa?&#xa;Is it a dog? / &#xc9; um cachorro?&#xa;Are you very shy?  / Voc&#xea; &#xe9; muito t&#xed;mido?&#xa;Were you very shy?  /  Voc&#xea; era muito t&#xed;mido.&#xa;Will I be a vet? / Eu serei uma veterin&#xe1;ria?"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

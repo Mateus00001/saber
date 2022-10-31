@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.8" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,70,0,0,3,107"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel14">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Footlight MT Light" size="48" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="COMANDOS:JAVA"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="320" y="30" width="510" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel3">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="240" height="580"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel24">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="2" name="C:\Users\User\Desktop\Trabalho\src\trabalho\htmleditor_html_editor_final-61.png"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="240" height="180"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/trabalho/GRD DEIT.jpg"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="270" y="0" width="600" height="90"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel21">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/trabalho/GRD DEIT.jpg"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="220" y="0" width="600" height="90"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel7">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel20">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder thickness="4">
+              <Color PropertyName="color" blue="ff" green="ff" red="ff" type="rgb"/>
+            </LineBorder>
+          </Border>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="240" y="89" width="630" height="510"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel56">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="MV Boli" size="18" style="1"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="2" name="C:\Users\User\Desktop\icons 1\arrow_redo.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Voltar"/>
+            <Property name="toolTipText" type="java.lang.String" value=""/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel56MouseClicked"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="530" y="460" width="-1" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="630" height="460"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="O comando for&#xa;O comando for deve ser usado sempre que se deseja que um c&#xf3;digo seja executado um &#xa;determinado n&#xfa;mero de vezes. A sintaxe do comando for &#xe9;:&#xa;&#xa; for(INICIALIZA&#xc7;&#xc3;O;CONDI&#xc7;&#xc3;O;EXPRESS&#xc3;O){&#xa;     COMANDO(S);&#xa; }&#xa;Quando o comando &quot;for&quot; &#xe9; executado, a primeira coisa a ser feita &#xe9; a inicializa&#xe7;&#xe3;o prevista. Em &#xa;seguida, verifica-se se CONDI&#xc7;&#xc3;O &#xe9; &quot;falso&quot;. Em caso afirmativo, o loop n&#xe3;o ser&#xe1; executado. Caso &#xa;contr&#xe1;rio, todos os comandos existentes no bloco abaixo do comando s&#xe3;o executados e a opera&#xe7;&#xe3;o&#xa; prevista em EXPRESS&#xc3;O &#xe9; executada. Mais uma vez, a CONDI&#xc7;&#xc3;O &#xe9; analisada. Caso ela seja falsa,&#xa; o loop &#xe9; interrompido. Caso contr&#xe1;rio, ela continua. Exemplos de uso:&#xa;&#xa; for(int i=1;i&lt;=10;i++)         //O loop &#xe9; executado 10 vezes&#xa;     System.out.println(i+&quot; &quot;); //Ser&#xe1; impressa na tela uma contagem de 1 at&#xe9; 10.&#xa;O comando while e do-while&#xa;O comando while deve ser usado sempre que n&#xe3;o sabemos quantas vezes um loop ser&#xe1; executado. A sintaxe do comando &#xe9;:&#xa;&#xa; while(CONDI&#xc7;&#xc3;O){&#xa;     COMANDO(S);&#xa; }&#xa;Quando o comando &quot;while&quot; &#xe9; executado, verifica-se o valor retornado por CONDI&#xc7;&#xc3;O. Se for &#xa;&quot;verdadeiro&quot;, a sequ&#xea;ncia de comandos presente no bloco logo abaixo do comando &#xe9; executada. &#xa;Ao fim, o valor de CONDI&#xc7;&#xc3;O &#xe9; verificado novamente. O loop s&#xf3; para quando o valor retornado&#xa; por CONDI&#xc7;&#xc3;O for &quot;falso&quot;.&#xa;&#xa;Al&#xe9;m do comando &quot;while&quot;, tamb&#xe9;m pode ser usado o comando &quot;do-while&quot; que segue a seguinte&#xa; sintaxe:&#xa;&#xa; do{&#xa;     COMANDO(S);&#xa; }while(CONDI&#xc7;&#xc3;O);&#xa;Ele funciona exatamente igual ao comando &quot;while&quot;. A diferen&#xe7;a &#xe9; que a CONDI&#xc7;&#xc3;O s&#xf3; &#xe9; analisada &#xa;depois que os comandos s&#xe3;o executados. Isso significa que o comando &quot;do-while&quot; sempre executa &#xa;o conjunto de comandos ao menos uma vez. Mesmo que a condi&#xe7;&#xe3;o seja inicialmente falsa. &#xa;Exemplos de uso:&#xa;&#xa;Exemplo 1:&#xa;&#xa; while(true){&#xa;     System.out.printls(&quot;Estou preso!&quot;); //Como aqui CONDI&#xc7;&#xc3;O sempre &#xe9; verdadeira, este comando&#xa; sempre ser&#xe1; executado.&#xa; }&#xa;Exemplo 2:&#xa;&#xa; while(variavel%435==4){ &#xa;      variavel+=(variavel*3);  //O numero de vezes que este comando ser&#xe1; executado depende do &#xa;valor inicial da vari&#xe1;vel&#xa; }&#xa;Comandos de controle de fluxo&#xa;Existem alguns comandos que foram feitos para facilitar o uso de loops em programas. &#xa;Eles permitem que voc&#xea; controle melhor o fluxo de execu&#xe7;&#xe3;o de um programa. S&#xe3;o eles:&#xa;&#xa;O comando break&#xa;O comando break &#xe9; um comando bastante importante no desenvolvimento da maior parte dos &#xa;programas de computador, ele &#xe9; usado para sair imediatamente de um la&#xe7;o (loop, em ingl&#xea;s), &#xa;independente do valor de CONDI&#xc7;&#xc3;O. Ele pode ser executado dentro de um while, for, do ... &#xa;while ou switch (estes comandos ser&#xe3;o discutidos mais adiante neste livro), fazendo um sa&#xed;da &#xa;imediata dessa instru&#xe7;&#xe3;o. Passando para o execu&#xe7;&#xe3;o do pr&#xf3;ximo comando.&#xa;&#xa;A sintaxe do comando &#xe9; bastante simples:&#xa;&#xa; break;&#xa;Exemplos de uso: No exemplo abaixo temos um c&#xf3;digo escrito em Java, onde em um loop for &#xe9; &#xa;interrompido quando a vari&#xe1;vel inteira contador se torna igual a 5.&#xa;&#xa; public class BreakTeste&#xa;{&#xa;    public static void main( String args[] )&#xa;    {&#xa;    int contador; //Vari&#xe1;vel de controle usada como refer&#xea;ncia&#xa;   &#xa;    for ( contador = 1; contador &lt;= 10; contador++ )//La&#xe7;o, ser&#xe1; repetido 10 vezes&#xa;        {&#xa;        if ( contador == 5 ) //Se o contador chegar at&#xe9; 5&#xa;            break;        //Termina o loop quando a condi&#xe7;&#xe3;o do if se tornar verdadeira&#xa;       &#xa;        System.out.printf( &quot;%d &quot;, contador);&#xa;        }//Termino da instru&#xe7;&#xe3;o for&#xa;   &#xa;    System.out.printf( &quot;\u005cnInterrompe o contador quando o contador = %d\u005cn&quot;,contador );&#xa;    }//Fim do main&#xa;}//Fim da classe BreakTest" containsInvalidXMLChars="true"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

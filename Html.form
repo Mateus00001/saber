@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,70,0,0,3,107"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel22">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="C:\Users\User\Desktop\1200px-HTML5.svg.png"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="-40" width="-1" height="360"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel14">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Footlight MT Light" size="48" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="HTML"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="320" y="30" width="280" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel3">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="260" height="580"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/trabalho/GRD EMPE.jpg"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="220" height="203"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/trabalho/GRD DEIT.jpg"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="270" y="0" width="600" height="90"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel21">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/trabalho/GRD DEIT.jpg"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="220" y="0" width="600" height="90"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel7">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel20">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder thickness="4">
+              <Color PropertyName="color" blue="ff" green="ff" red="ff" type="rgb"/>
+            </LineBorder>
+          </Border>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="260" y="89" width="610" height="510"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel56">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="MV Boli" size="18" style="1"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="2" name="C:\Users\User\Desktop\icons 1\arrow_redo.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Voltar"/>
+            <Property name="toolTipText" type="java.lang.String" value=""/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel56MouseClicked"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="530" y="460" width="-1" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="610" height="460"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="O que &#xe9; HTML?&#xa;&#xa; HTML (HyperText Markup Language) n&#xe3;o &#xe9; uma linguagem de programa&#xe7;&#xe3;o, &#xe9; uma linguagem &#xa; de marca&#xe7;&#xe3;o utilizada para dizer ao seu navegador como estruturar a p&#xe1;gina web que voc&#xea; visita.&#xa; A p&#xe1;gina pode ser tanto complicada como simples quanto o desenvolvedor web desejar que seja.&#xa; HTML consiste em uma s&#xe9;rie de elementos que voc&#xea; usa para anexar, ou marcar diferentes partes&#xa; do conte&#xfa;do para que apare&#xe7;a ou aja de uma certa maneira. O fechamento das tags pode&#xa; transformar uma parte do conte&#xfa;do dentro do elemento em um link para direcionar &#xe0; uma &#xa;outra p&#xe1;gina web, colocar as palavras em it&#xe1;lico, e assim por diante. Por exemplo, observe o &#xa;conte&#xfa;do a seguir:&#xa;&lt;p&gt;Meu gato &#xe9; muito mal-humorado.&lt;/p&gt;&#xa;As partes principais do elemento s&#xe3;o:&#xa;&#xa;Tag de abertura: Consiste no nome do elemento ( neste caso: p ), envolvido entre par&#xea;nteses &#xa;angulares de abertura e fechamento. Isso indica onde o elemento come&#xe7;a, ou inicia a produzir &#xa;efeito &#x2014; neste caso, onde o par&#xe1;grafo se inicia.&#xa;&#xa;Tag de fechamento: &#xc9; o mesmo que a tag de abertura, exceto que este inclui uma barra diagonal&#xa; antes do nome do elemento. Indica onde o elemento termina &#x2014; neste caso, onde fica o fim do&#xa; par&#xe1;grafo. Falhar em incluir o fechamento de uma tag &#xe9; um erro comum para iniciantes e pode&#xa; levar a resultados estranhos.&#xa;&#xa;O conte&#xfa;do: Este &#xe9; o conte&#xfa;do do elemento, que neste caso &#xe9; somente texto.&#xa;&#xa;O elemento: A tag de abertura, mais a tag de fechamento, mais o conte&#xfa;do, &#xe9; igual ao elemento.&#xa;&#xa;A estrutura b&#xe1;sica de uma p&#xe1;gina HTML pode ser vista na Listagem 1, na qual podemos ver as&#xa; principais tags que s&#xe3;o necess&#xe1;rias para que o documento seja corretamente interpretado &#xa;pelos browsers.&#xa;&#xa;&lt;!DOCTYPE html&gt;&#xa;&lt;html&gt;&#xa;&lt;head&gt;&#xa;&lt;meta charset=&quot;UTF-8&quot;/&gt;&#xa;&lt;title&gt;Document&lt;/title&gt;&#xa;&lt;/head&gt;&#xa;&lt;body&gt;&#xa;&lt;!-- Conte&#xfa;do --&gt;&#xa;&lt;/body&gt;&#xa;&lt;/html&gt;&#xa;&#xa;Linha 1: a instru&#xe7;&#xe3;o DOCTYPE deve ser sempre a primeira a aparecer em uma p&#xe1;gina HTML para&#xa; indicar ao browser qual vers&#xe3;o da linguagem usada. Nesse caso, estamos trabalhando com a &#xa;HTML5, vers&#xe3;o na qual a declara&#xe7;&#xe3;o do DOCTYPE &#xe9; bastante simples, como podemos ver na &#xa;listagem;&#xa;&#xa;Linhas 2 e 10: abertura e fechamento da tag html, que delimita o documento. Sendo assim, todas&#xa; as demais tags da p&#xe1;gina devem estar nesse espa&#xe7;o;&#xa;&#xa;Linhas 3 e 6: abertura e fechamento da tag head, que define o cabe&#xe7;alho do documento. &#xa;O conte&#xfa;do nesse espa&#xe7;o n&#xe3;o &#xe9; vis&#xed;vel no browser, mas cont&#xe9;m instru&#xe7;&#xf5;es sobre seu conte&#xfa;do &#xa;e comportamento. Dentro dessa tag, por exemplo, podem ser inseridas folhas de estilo e scripts;&#xa;&#xa;Linha 4: a tag meta, nesse caso, especifica qual conjunto de caracteres (character set ou charset) &#xa;ser&#xe1; usado para renderizar o texto da p&#xe1;gina. O UTF-8 cont&#xe9;m todos os caracteres dos padr&#xf5;es&#xa; Unicode e ASCII, sendo, portanto, o mais utilizado em p&#xe1;ginas web. A mesma tag meta, por&#xe9;m &#xa;com outros atributos, pode ser utilizada para outros fins, como na SEO (Search Engine &#xa;Optimization);&#xa;&#xa;Linha 5: a tag title define o t&#xed;tulo da p&#xe1;gina, aquele que aparece na janela/aba do navegador;&#xa;&#xa;Linhas 7 e 9: abertura e fechamento da tag body, marcando o espa&#xe7;o no qual deve estar contido&#xa; o conte&#xfa;do visual da p&#xe1;gina. As demais tags que representam texto, bot&#xf5;es etc. devem ser &#xa;adicionadas nesse intervalo;&#xa;&#xa;Linha 8: nessa linha podemos observar a sintaxe para adi&#xe7;&#xe3;o de coment&#xe1;rios em HTML. Esse &#xa;trecho n&#xe3;o &#xe9; renderizado pelo browser.&#xa;&#xa;Para desenvolver p&#xe1;ginas com HTML basicamente precisamos de um editor de texto, como o&#xa; Bloco de Notas do Windows, Nano e Emacs no Linux, entre v&#xe1;rios outros. H&#xe1;, ainda, editores &#xa;com op&#xe7;&#xf5;es avan&#xe7;adas, como recursos de syntax hilghligt e autocomplete, como Sublime Text,&#xa; Atom, Brackets e Visual Studio Code, que podem ser usados para editar documentos HTML.&#xa;&#xa;Independentemente do editor utilizado, podemos simplesmente copiar o c&#xf3;digo da Listagem &#xa;1 para um deles e salvar o arquivo com extens&#xe3;o .html. Em seguida, podemos abrir esse arquivo &#xa;em um browser."/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

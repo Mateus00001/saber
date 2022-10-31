@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,70,0,0,3,107"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel14">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Footlight MT Light" size="48" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="CSS"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="320" y="30" width="280" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel3">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="260" height="580"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel23">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="2" name="C:\Users\User\Desktop\CSS.jpg"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="260" height="220"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/trabalho/GRD DEIT.jpg"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="270" y="0" width="600" height="90"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel21">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/trabalho/GRD DEIT.jpg"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="220" y="0" width="600" height="90"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel7">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel20">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder thickness="4">
+              <Color PropertyName="color" blue="ff" green="ff" red="ff" type="rgb"/>
+            </LineBorder>
+          </Border>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="260" y="89" width="610" height="510"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel56">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="MV Boli" size="18" style="1"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="2" name="C:\Users\User\Desktop\icons 1\arrow_redo.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Voltar"/>
+            <Property name="toolTipText" type="java.lang.String" value=""/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel56MouseClicked"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="530" y="460" width="-1" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="610" height="460"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="CSS (Cascading Style Sheets) &#xe9; uma linguagem de cria&#xe7;&#xe3;o de estilos, que quando combinados &#xa;determinam qual ser&#xe1; a apar&#xea;ncia de uma p&#xe1;gina web. Enquanto o HTML cuida da estrutura&#xa;contida em uma p&#xe1;gina, &#xe9; o CSS quem diz ao navegador com o que cada parte da p&#xe1;gina deve &#xa;se parecer.&#xa;Usamos a linguagem CSS para moldar a apar&#xea;ncia dos elementos em uma p&#xe1;gina web atrav&#xe9;s de&#xa;regras.&#xa;Por exemplo, com CSS podemos modificar os par&#xe1;grafos p aumentando a sua fonte e peso &#xa;adicionando negrito, os t&#xed;tulos h1 para que tenham a fonte Roboto Slab, mover uma parte da&#xa;p&#xe1;gina para baixo de outra, entre muitos exemplos.&#xa;&#xa;Todas essas caracter&#xed;sticas visuais dos elementos s&#xe3;o representadas por propriedades, de forma&#xa;que aprender CSS consiste em tr&#xea;s etapas:&#xa;&#xa;Entender como ele funciona&#xa;Conhecer a sintaxe de uma regra&#xa;Descobrir quais propriedades existem&#xa;&#xa;Sintaxe de uma regra&#xa;O trabalho do CSS &#xe9; associar regras aos elementos em uma p&#xe1;gina.&#xa;&#xa;Uma regra CSS &#xe9; composta de duas partes:&#xa;&#xa;Seletor&#xa;Declara&#xe7;&#xe3;o&#xa;Seletor &#xe9; a parte da regra que informa a qual ou quais elementos ela deve ser aplicada.&#xa;&#xa;Declara&#xe7;&#xe3;o &#xe9; a parte da regra que informa como os elementos referenciados pelo seletor devem &#xa;ser modificados.&#xa;&#xa;As declara&#xe7;&#xf5;es s&#xe3;o compostas por pares de chave e valor separados por dois pontos :.&#xa;&#xa;Por exemplo, na regra apresentada no C&#xf3;digo 1 p &#xe9; o seletor e todo o conte&#xfa;do entre chaves&#xa; &#xe9; a declara&#xe7;&#xe3;o.&#xa;&#xa;p {&#xa;    font-family: Arial;&#xa;}&#xa;&#xa;Essa regra informa para o navegador que todos os elementos p encontrados na p&#xe1;gina devem &#xa;ter a fonte Arial.&#xa;&#xa;Uma declara&#xe7;&#xe3;o pode conter diversas propriedades separadas por ponto e v&#xed;rgula, conforme &#xa;exemplificado no C&#xf3;digo 2. As propriedades informam quais caracter&#xed;sticas visuais do elemento &#xa;desejamos modificar.&#xa;&#xa;h1, h2 {&#xa;    font-family: Arial;&#xa;    color: yellow;&#xa;}&#xa;C&#xf3;digo 2. Regra com mais de uma propriedade&#xa;Essa regra informa para o navegador que os elementos h1 e h2 devem ter a fonte Arial e a cor&#xa; yellow.&#xa;&#xa;Note que a propriedade font-family recebe como valor o nome de uma fonte e que color recebe&#xa; uma cor. Diferentes propriedades podem ter diferentes conjuntos de valores.&#xa;&#xa;Exemplo pr&#xe1;tico&#xa;Abra o seu editor preferido para criar uma p&#xe1;gina HTML e aplicar CSS a ela.&#xa;&#xa;No arquivo HTML insira o C&#xf3;digo 3.&#xa;&#xa;&lt;!DOCTYPE html&gt;&#xa;&lt;html&gt;&#xa;&#xa;&lt;head&gt;&#xa;    &lt;title&gt;Chapeuzinho Vermelho - Conto dos irm&#xe3;os Grimm&lt;/title&gt;&#xa;&lt;/head&gt;&#xa;&#xa;&lt;body&gt;&#xa;    &lt;h1&gt;Chapeuzinho Vermelho&lt;/h1&gt;&#xa;&#xa;    &lt;p&gt;Houve, uma vez uma graciosa menina;&#xa;        quem a via ficava logo gostando dela,&#xa;        assim como ela gostava de todos;&#xa;        Particularmente, amava a avozinha, que n&#xe3;o sabia o que dar e&#xa;        o que fazer pela netinha.&#xa;        Certa vez, presenteou-a com um chapeuzinho de&#xa;        veludo vermelho e, porque lhe ficava muito bem,&#xa;        a menina n&#xe3;o mais quis usar outro e acabou ficando&#xa;        com o apelido de Chapeuzinho Vermelho.&#xa;        Um dia, a m&#xe3;e chamou-a e disse-lhe:&lt;/p&gt;&#xa;&#xa;    &lt;blockquote&gt;- Vem c&#xe1;, Chapeuzinho Vermelho;&#xa;        aqui tens um peda&#xe7;o de bolo e uma garrafa de vinho;&#xa;        leva tudo para a vov&#xf3;; ela est&#xe1; doente e fraca e&#xa;        com isso se restabelecer&#xe1;.&#xa;        P&#xf5;e-te a caminho antes que o sol esquente muito e,&#xa;        quando fores, comporta-te direito; n&#xe3;o saias do caminho,&#xa;        sen&#xe3;o cais e quebras a garrafa e a vov&#xf3; ficar&#xe1; sem nada.&#xa;        Quando entrares em seu quarto, n&#xe3;o esque&#xe7;as de dizer&#xa;        &quot;bom-dia, vov&#xf3;,&quot; ao inv&#xe9;s de mexericar pelos cantos.&#xa;    &lt;/blockquote&gt;&#xa;&lt;/body&gt;&#xa;&#xa;&lt;/html&gt;&#xa;C&#xf3;digo 3. Conte&#xfa;do da p&#xe1;gina HTML&#xa;Assim como aprendemos anteriormente, um arquivo HTML deve ser salvo com a extens&#xe3;o .html.&#xa; Chamaremos esse arquivo de index.html, seguindo a conven&#xe7;&#xe3;o da linguagem de nomear o &#xa;arquivo principal de um site dessa forma.&#xa;&#xa;Agora, crie um novo arquivo e insira nele o c&#xf3;digo CSS do C&#xf3;digo 4.&#xa;&#xa;h1 {&#xa;    font-family: Arial;&#xa;    color: #333;&#xa;}&#xa;&#xa;p {&#xa;    font-size: 14px;&#xa;}&#xa;&#xa;blockquote {&#xa;    margin: 0;&#xa;}&#xa;C&#xf3;digo 4. Regras CSS para o arquivo index.html&#xa;Um arquivo CSS deve ser salvo com a extens&#xe3;o .css. Chamaremos esse arquivo de stylesheet.css,&#xa; seguindo a conven&#xe7;&#xe3;o de nome dessa linguagem.&#xa;&#xa;Neste arquivo criamos tr&#xea;s regras.&#xa;&#xa;A primeira regra, que possui como seletor h1, informa que esse elemento deve possuir fonte Arial&#xa; e um tom de cinza como cor. Podemos usar tanto nomes de cores quanto n&#xfa;meros hexadecimais prefixados por cerquilha # como valor para a propriedade color.&#xa;A segunda regra, que possui como seletor p, informa que esse elemento deve ter o tamanho da&#xa; sua fonte modificado para 14px, que quer dizer 14 pixels. A propriedade fonte-size deve receber&#xa; um valor num&#xe9;rico em alguma unidade de medida reconhecida pelo CSS. Informar esse valor &#xa;em pixels &#xe9; muito comum.&#xa;A terceira regra, que possui como seletor blockquote, modifica a margem desse elemento de&#xa; forma que ele perca o recuo.&#xa;&#xa;link&#xa;Agora, devemos vincular o arquivo stylesheet.css a p&#xe1;gina index.html. Faremos isso utilizando o&#xa; elemento link.&#xa;&#xa;Abra o arquivo index.html e insira o seguinte conte&#xfa;do dentro do elemento head, abaixo de title.&#xa;&#xa;&lt;linkrel=&quot;stylesheet&quot; href=&quot;stylesheet.css&quot;&gt;&#xa;&#xa;C&#xf3;digo 5. Utilizando o elemento link para vincular CSS e HTML&#xa;O elemento link no C&#xf3;digo 5 possui dois atributos, que s&#xe3;o rel e href. Conforme aprendemos no &#xa;curso de HTML os atributos de um elemento sem tag de fechamento cont&#xe9;m informa&#xe7;&#xf5;es sobre&#xa; o seu conte&#xfa;do.&#xa;&#xa;A informa&#xe7;&#xe3;o contida em rel &#xe9; stylesheet nomeia a rela&#xe7;&#xe3;o entre o recurso que est&#xe1; sendo &#xa;adicionado no documento atual. Nesse caso informamos que estamos carregando uma folha &#xa;de estilo para o documento.&#xa;&#xa;O atributo href cont&#xe9;m a URL para o recurso que estamos adicionando. Essa URL pode ser &#xa;absoluta, como em https://www.site.com.br/css/stylesheet.css, ou relativa, que &#xe9; a forma utilizada &#xa;no C&#xf3;digo 5.&#xa;&#xa;Para ver o resultado desse c&#xf3;digo basta abrir o arquivo index.html no navegador. A Anima&#xe7;&#xe3;o 2 &#xa;mostra o momento em que o navegador aplica o CSS ap&#xf3;s a p&#xe1;gina ser atualizada.&#xa;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
